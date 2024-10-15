@@ -11,8 +11,6 @@ int main(int argc, char* argv[]) {
 		printf("\n");
 	}
 
-	/*printf("Hello,World!\n");*/
-
 	system("pause");
 	return 0;
 }
