@@ -22,6 +22,7 @@ int main(int argc, char* argv[]) {
 
 	CoUninitialize();
 
+
 	/// 02_03 ///
 	/*for (int i = 0; i < argc; i++) {
 		printf(argv[i]);
@@ -29,6 +30,7 @@ int main(int argc, char* argv[]) {
 	}*/
 	/// 02_02 ///
 	/*printf("Hello,World!\n");*/
+
 
 	system("pause");
 	return 0;
